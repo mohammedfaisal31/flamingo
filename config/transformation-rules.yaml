@@ -1,0 +1,2 @@
+dest_collection_name: tblstockproduct_mig
+source_table_name: tblstockproduct

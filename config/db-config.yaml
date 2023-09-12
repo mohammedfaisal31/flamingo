@@ -1,0 +1,10 @@
+mongodb:
+  database: suggi_prod
+  host: localhost
+  port: 27017
+mysql:
+  database: suggi_prod
+  host: localhost
+  password: 65109@mysql
+  port: 3306
+  user: root
